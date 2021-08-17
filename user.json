@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "name": "Dhananjay Patania",
+            "address": "Kolkata",
+            "id": "d370993d-4ba9-4f5c-9ebd-599b40049642"
+        },
+        {
+            "name": "Sam Sharma",
+            "address": "Mumbai",
+            "id": "3ec79f2e-a381-4b0e-b752-8a84300de4fb"
+        },
+        {
+            "name": "Raj Singh",
+            "address": "Cuttack",
+            "id": "05f91684-dd2e-4db8-910c-902060f7eaef"
+        },
+        {
+            "name": "Raj Verma",
+            "address": "Chennai",
+            "id": "f6bcf74f-bb0a-4b02-8b54-8d5198ddfdf6"
+        }
+    ]
+}
